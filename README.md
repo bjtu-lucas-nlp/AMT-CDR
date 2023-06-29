@@ -1,6 +1,8 @@
 # AMT-CDR: A Deep Adversarial Multi-channel Transfer Network for Cross-domain Recommendation
 ## Souce code and data of AMT-CDR
+
 **Author: Kezhi Lu, Qian Zhang, Danny Hughes, Guangquan Zhang, Jie Lu**
+
 **Data: https://drive.google.com/drive/folders/1yDGRGuszbEK2TnVxydGDlbJBWMh4Iqpx?usp=sharing**
 
 **Train and evaluate AMT-CDR**
