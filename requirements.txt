@@ -1,0 +1,3 @@
+torch
+numpy
+sentence_transformers
