@@ -1,10 +1,10 @@
 # AMT-CDR: A Deep Adversarial Multi-channel Transfer Network for Cross-domain Recommendation
 Souce code and data of AMT-CDR
 
-## Requirement:
+## Dependencies:
 pip install -r requirement.txt
 
-## Data:
+## Datasets:
 We shared our data through the following link:
 https://drive.google.com/drive/folders/1yDGRGuszbEK2TnVxydGDlbJBWMh4Iqpx?usp=sharing
 
